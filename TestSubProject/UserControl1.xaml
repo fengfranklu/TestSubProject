@@ -10,6 +10,6 @@
         <TextBlock Height="100" Width="700" 
                    HorizontalAlignment="Center" TextAlignment="Center" 
                    VerticalAlignment="Center" 
-                   FontSize="50" Foreground="AliceBlue" Background="Purple"> This is from the subproject</TextBlock> 
+                   FontSize="30" Foreground="Blue" Background="White"> This is from the subproject</TextBlock> 
     </Grid>
 </UserControl>
