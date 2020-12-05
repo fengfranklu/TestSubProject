@@ -7,6 +7,9 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid>
-        <TextBlock Height="100" Width="700" HorizontalAlignment="Center" TextAlignment="Center" VerticalAlignment="Center" FontSize="50" Foreground="AliceBlue" Background="Purple"> This is from the subproject</TextBlock> 
+        <TextBlock Height="100" Width="700" 
+                   HorizontalAlignment="Center" TextAlignment="Center" 
+                   VerticalAlignment="Center" 
+                   FontSize="50" Foreground="AliceBlue" Background="Purple"> This is from the subproject</TextBlock> 
     </Grid>
 </UserControl>
