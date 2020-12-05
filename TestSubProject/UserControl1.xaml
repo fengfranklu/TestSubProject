@@ -6,10 +6,14 @@
              xmlns:local="clr-namespace:TestSubProject"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
-    <Grid>
+    <StackPanel>
         <TextBlock Height="100" Width="700" 
                    HorizontalAlignment="Center" TextAlignment="Center" 
                    VerticalAlignment="Center" 
-                   FontSize="30" Foreground="Blue" Background="White"> This is from the subproject</TextBlock> 
-    </Grid>
+                   FontSize="30" Foreground="Blue" Background="White"> This is from the subproject</TextBlock>
+        <TextBlock Height="100" Width="700" 
+                   HorizontalAlignment="Center" TextAlignment="Center" 
+                   VerticalAlignment="Center" 
+                   FontSize="30" Foreground="Blue" Background="White"> This is from the subproject, Second Edits</TextBlock>
+    </StackPanel>
 </UserControl>
